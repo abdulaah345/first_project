@@ -1,0 +1,41 @@
+header p{
+    font-size: xx-large;
+    font-weight: bold;
+    color: #2f1200;
+    text-align: center;
+    padding-top: 8px;
+}
+.logo:hover{
+    background-color: #FF7A00;
+    color: #2f1200;
+    cursor: auto;
+}
+nav{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.cards .light:hover{
+    box-shadow: 10px 10px 40px 10px #fff0b5;
+}
+.cards .dark:hover{
+    box-shadow: 10px 10px 30px 8px black;
+}
+.content{
+    width: 90%;
+    flex-direction: row;
+    justify-content: space-around;
+    margin: 50px;
+}
+label{
+    margin-top: 100px;
+}
+.cards{
+    width: 600px;
+}
+.cards img{
+    width: 200px;
+}
+.admin{
+    width: 300px;
+}

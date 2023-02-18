@@ -1,0 +1,105 @@
+.ta,.h-ta,.t-ta,.ho-ta
+{
+position: absolute;
+left: 55px;
+font-weight: bold;
+font-size: 80px;
+font-family: 'Bebas Neue', cursive;
+color: #FF7A00;
+border-color: #FFEFCF;
+border-width: 10px;
+box-shadow: 10px;
+border-style: solid;
+padding: 10px;
+}
+
+.ho-ta{
+left: 40px;
+  top:0px;
+}
+
+.h-ta{
+
+  top:1260px;
+}
+
+.t-ta{
+
+  top:1900px;
+}
+
+.ta{
+
+  top:620px;
+}
+
+.area1,.area2,.area3,.area4{
+  color:#FF7A00 ;
+
+}
+
+
+.o,.oo,.c,.y{
+  color: #FFEFCF;
+}
+
+
+.tap,.h-tap,.ho-tap,.t-tap
+{
+  position: relative;
+left: 240px;
+top: 190px;
+  font-size: 30px;
+ width: 700px;
+color: #FFEFCF;
+font-family: 'Bebas Neue', cursive;
+}
+
+.food,
+.healthcare ,
+.home ,
+.toys{
+  height: 600px;
+ margin-bottom: : 80px;
+ background-color:#2d2424 ;
+
+}
+
+.pic-f,.pic-t,.pic-ho,.pic-h{
+position: relative;
+height: 500px;
+width: 500px;
+left: 1003px;
+bottom: 290px;
+background-image: url("../imgs/dd3.png");
+background-size: cover;
+}
+
+
+.pic-t{
+position: absolute;
+background-image: url("../imgs/dd2.png");
+bottom:-2000px;
+left: 1040px;
+}
+
+
+.pic-h{
+background-image: url("../imgs/dd.png");
+bottom: 205px;
+}
+
+
+.pic-ho{
+background-image: url("../imgs/dd4.png");
+bottom: 275px;
+left: 1070px;
+}
+
+.main{
+background-color:#2d2424 ;
+}
+
+body{
+background-color:#2d2424 ;
+}
